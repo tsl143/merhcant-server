@@ -1,0 +1,503 @@
+{
+  "merchants": [
+    {
+      "id": "1",
+      "firstname": "Trishul",
+      "lastname": "Goel",
+      "avatarUrl": "http://trishulgoel.com/wp-content/uploads/2014/04/trishul.jpg",
+      "email": "trishul.goel@gmail.com",
+      "phone": "8867222440",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": "2",
+          "carTitle": "bentle",
+          "amount": 1000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "3",
+          "carTitle": "bentle",
+          "amount": 2000,
+          "created": "150980770071"
+        },
+        {
+          "id": "4",
+          "carTitle": "bentle",
+          "amount": 3000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "5",
+          "carTitle": "bentle",
+          "amount": 4000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "1510053106948",
+          "amount": "222",
+          "carTitle": "test car",
+          "created": "1510053106948"
+        },
+        {
+          "id": "1510053231441",
+          "amount": "11",
+          "carTitle": "asd",
+          "created": "1510053231441"
+        },
+        {
+          "id": "1510053232256",
+          "amount": "22",
+          "carTitle": "sadaasd",
+          "created": "1510053232256"
+        }
+      ],
+      "showNotification": false,
+      "redirect": false,
+      "isValid": false,
+      "isError": false,
+      "validation": true
+    },
+    {
+      "id": "2",
+      "firstname": "Trishul2",
+      "lastname": "Goel2",
+      "avatarUrl": "http://trishulgoel.com/wp-content/uploads/2014/04/trishul.jpg",
+      "email": "trishul.goel@gmail.com",
+      "phone": "8867222440",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": "2",
+          "carTitle": "bentle",
+          "amount": 1000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "3",
+          "carTitle": "bentle",
+          "amount": 2000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "4",
+          "carTitle": "bentle",
+          "amount": 3000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "5",
+          "carTitle": "bentle",
+          "amount": 4000,
+          "created": "1509807708071"
+        }
+      ],
+      "showNotification": false,
+      "redirect": false
+    },
+    {
+      "id": "3",
+      "firstname": "Trishul3",
+      "lastname": "Goel3",
+      "avatarUrl": "http://trishulgoel.com/wp-content/uploads/2014/04/trishul.jpg",
+      "email": "trishul.goel@gmail.com",
+      "phone": "8867222440",
+      "hasPremium": false,
+      "bids": [
+        {
+          "id": "2",
+          "carTitle": "bentle",
+          "amount": 1000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "3",
+          "carTitle": "bentle",
+          "amount": 2000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "4",
+          "carTitle": "bentle",
+          "amount": 3000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "5",
+          "carTitle": "bentle",
+          "amount": 4000,
+          "created": "1509807708071"
+        }
+      ],
+      "showNotification": false,
+      "redirect": false,
+      "isValid": false,
+      "isError": false
+    },
+    {
+      "id": "77",
+      "firstname": "Trishul",
+      "lastname": "Goel",
+      "avatarUrl": "http://trishulgoel.com/wp-content/uploads/2014/04/trishul.jpg",
+      "email": "trishul.goel@gmail.com",
+      "phone": "8867222440",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": "2",
+          "carTitle": "bentle",
+          "amount": 1000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "3",
+          "carTitle": "bentle",
+          "amount": 2000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "4",
+          "carTitle": "bentle",
+          "amount": 3000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "5",
+          "carTitle": "bentle",
+          "amount": 4000,
+          "created": "1509807708071"
+        }
+      ],
+      "showNotification": false,
+      "redirect": false,
+      "isValid": false,
+      "isError": false
+    },
+    {
+      "id": "4",
+      "firstname": "Trishul",
+      "lastname": "Goel",
+      "avatarUrl": "http://trishulgoel.com/wp-content/uploads/2014/04/trishul.jpg",
+      "email": "trishul.goel@gmail.com",
+      "phone": "8867222440",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": "2",
+          "carTitle": "bentle",
+          "amount": 1000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "3",
+          "carTitle": "bentle",
+          "amount": 2000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "4",
+          "carTitle": "bentle",
+          "amount": 3000,
+          "created": "1509807708071"
+        },
+        {
+          "id": "5",
+          "carTitle": "bentle",
+          "amount": 4000,
+          "created": "1509807708071"
+        }
+      ],
+      "showNotification": false,
+      "redirect": false,
+      "isValid": false,
+      "isError": false
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asda",
+      "email": "asd",
+      "phone": "asd",
+      "avtar": "asdass",
+      "isPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "amount": "1",
+          "carTitle": "w",
+          "created": "1509844521770"
+        },
+        {
+          "id": 2,
+          "amount": "2",
+          "carTitle": "q",
+          "created": "1509844536148"
+        }
+      ],
+      "id": "14"
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asda",
+      "email": "asd",
+      "phone": "asd",
+      "avtar": "asdass",
+      "isPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "amount": "1",
+          "carTitle": "w",
+          "created": "1509844521770"
+        },
+        {
+          "id": 2,
+          "amount": "2",
+          "carTitle": "q",
+          "created": "1509844536148"
+        }
+      ],
+      "id": "17"
+    },
+    {
+      "id": "OYBk1Zc",
+      "firstname": "sd",
+      "lastname": "kjh",
+      "email": "lkhlj@sds.com",
+      "phone": "13123123",
+      "avatarUrl": "asds",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "amount": "11",
+          "carTitle": "223",
+          "created": "1509961718375"
+        }
+      ]
+    },
+    {
+      "id": "Rk1EPRZ",
+      "firstname": "sd",
+      "lastname": "kjh",
+      "email": "lkhlj@sds.com",
+      "phone": "13123123",
+      "avatarUrl": "asds",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "amount": "11",
+          "carTitle": "223",
+          "created": "1509961718375"
+        }
+      ]
+    },
+    {
+      "id": "Vo_oA3Y",
+      "firstname": "sd",
+      "lastname": "kjh",
+      "email": "lkhlj@sds.com",
+      "phone": "13123123",
+      "avatarUrl": "asds1212",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "amount": "11",
+          "carTitle": "223",
+          "created": "1509961718375"
+        }
+      ]
+    },
+    {
+      "id": "4LgH6Iz",
+      "firstname": "xdsa",
+      "lastname": "asd",
+      "email": "asd",
+      "phone": "asd",
+      "avatarUrl": "asd",
+      "hasPremium": false,
+      "bids": [
+        {
+          "id": 1,
+          "amount": "34234",
+          "carTitle": "sdfasd",
+          "created": "1510048491618"
+        }
+      ],
+      "showNotification": false,
+      "redirect": false
+    },
+    {
+      "id": "FFlB1wn",
+      "firstname": "asd",
+      "lastname": "asd11",
+      "email": "asd",
+      "phone": "asd",
+      "avatarUrl": "asd",
+      "hasPremium": true,
+      "bids": []
+    },
+    {
+      "id": "gWc6P~5",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": [],
+      "showNotification": false,
+      "redirect": false,
+      "isValid": false,
+      "isError": false
+    },
+    {
+      "id": "9ROEfw9",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": [],
+      "showNotification": false,
+      "redirect": false,
+      "isValid": false,
+      "isError": false
+    },
+    {
+      "id": "As91jcB",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "wXWeFUa",
+      "firstname": "asdasd",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "d0rB2IR",
+      "firstname": "Q###!",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "R92uqEb",
+      "firstname": "asdas",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "K9Aa~SX",
+      "firstname": "sadasd",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "_0zAlOO",
+      "firstname": "asdasd",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "9AUNM7h",
+      "firstname": "asdasd",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "QBjQhTo",
+      "firstname": "asdasd",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "8gnoesl",
+      "firstname": "asfd",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "avatarUrl": "",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "GmOG_wD",
+      "firstname": "asdasd",
+      "lastname": "asdasdsad",
+      "email": "asd@sasd.com",
+      "phone": "123123123123",
+      "avatarUrl": "https://asdsa.com",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "uenpc_B",
+      "firstname": "asdasd",
+      "lastname": "asdasd",
+      "email": "ads@asdasd.com",
+      "phone": "",
+      "avatarUrl": "https://asdsad.com",
+      "hasPremium": false,
+      "bids": []
+    },
+    {
+      "id": "ak1YGey",
+      "firstname": "test",
+      "lastname": "test",
+      "email": "asds@asdsa.com",
+      "phone": "12312312",
+      "avatarUrl": "http://asdsad.com",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": "1510137648426",
+          "amount": "11",
+          "carTitle": "asdasd",
+          "created": "1510137648426"
+        },
+        {
+          "id": "1510137651501",
+          "amount": "22",
+          "carTitle": "zxczxc",
+          "created": "1510137651501"
+        }
+      ]
+    }
+  ]
+}
